@@ -1,0 +1,15 @@
+# установка ssh
+$ sudo apt install ssh
+# разрешить соединение ssh
+$ sudo systemctl enable --now ssh
+# статус (активно или нет)
+$ sudo systemctl status ssh
+
+# узнать ip адрес
+если установлена; sudo apt install net-tools
+$ ifconfig
+или 
+$ ip address
+
+# Подключение
+$ ssh login@ip
