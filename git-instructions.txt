@@ -1,2 +1,5 @@
 # Клонирование приватного репозитория с помощью токена:
 git clone https://username:access_token@github.com/username/repo_name.git
+
+git clone https://knkitten:XXX@github.com/knkitten/dota2-lobby.git
+
