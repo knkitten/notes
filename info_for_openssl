@@ -1,2 +1,12 @@
 https://stackoverflow.com/questions/11541192/creating-a-rsa-public-key-from-its-modulus-and-exponent
 https://stackoverflow.com/questions/11886262/reading-public-private-key-from-memory-with-openssl
+
+# implementation struct of byte-array
+https://stackoverflow.com/questions/53005765/how-to-concat-byte-arrays-in-c
+
+# about buffer and recv socket
+https://stackoverflow.com/questions/43923475/tcp-server-blocking-read-in-c
+
+# zlib so
+https://stackoverflow.com/questions/28039861/c-zlib-crc32-and-python-zlib-crc32-doesnt-match
+
